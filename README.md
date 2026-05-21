@@ -163,7 +163,7 @@ A high-performance developer portfolio featuring interactive animations, respons
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A855F7" />
   </a>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
   <a href="https://github.com/Abhinav-murugan1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A855F7" />
