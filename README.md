@@ -154,6 +154,22 @@ A high-performance developer portfolio featuring interactive animations, respons
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhinav-murugan1&theme=tokyonight&hide_border=true&border_radius=12" />
 
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-murugan1&theme=tokyo-night&hide_border=true&radius=12" />
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhinav-murugan1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-murugan1&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhinav-murugan1&theme=tokyonight&hide_border=true&border_radius=12" />
+
 </div>
 
 ### Connect With Me
