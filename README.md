@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/normal-count.svg?username=Abhinav-murugan1&vcolor=A855F7&style=flat-square" alt="Visitor Counter" />
+<img src="https://hits.dwyl.com/Abhinav-murugan1/Abhinav-murugan1.svg?style=flat-square&color=A855F7" alt="Visitor Counter" />
 
 </div>
 
