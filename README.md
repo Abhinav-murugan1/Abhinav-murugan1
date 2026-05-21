@@ -146,23 +146,16 @@ A high-performance developer portfolio featuring interactive animations, respons
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhinav-murugan1&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhinav-murugan1&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-murugan1&layout=compact&theme=midnight-purple&hide_border=true&border_radius=12"/>
 
-</div>
-
+<br/>
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Abhinav-murugan1&theme=midnight-purple&hide_border=true&border_radius=12"/>
+<img src="https://streak-stats.demolab.com?user=Abhinav-murugan1&theme=midnight-purple&hide_border=true&border_radius=12"/>
 
 </div>
-
----
-
-<div align="center">
 
 ### Connect With Me
 
