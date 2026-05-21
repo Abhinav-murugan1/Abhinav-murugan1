@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://api.moondb.xyz/badge?name=Abhinav-murugan1&color=A855F7&style=flat-square" alt="Visitor Counter" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1000&pause=500&color=A855F7&center=true&vCenter=true&width=300&height=30&lines=Profile+Views:+;https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbhinav-murugan1&count_bg=%2300000000&title_bg=%2300000000&icon=&icon_color=%23E7E7E7&title=views&edge_flat=true" alt="Visitor Counter" />
 
 <br/>
 
