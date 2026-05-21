@@ -20,7 +20,7 @@
 
 ---
 
-## 🔮 About Me
+## About Me
 
 <blockquote>
   <p align="center">
@@ -38,7 +38,7 @@ I am a Bachelor of Computer Applications (BCA) graduate eager to kick-start my p
 
 ---
 
-## 🛠️ Syntactic Core (Tech Stack)
+## Syntactic Core (Tech Stack)
 
 ### 🎨 Front-End & Cross-Platform UI
 <p align="left">
@@ -59,7 +59,7 @@ I am a Bachelor of Computer Applications (BCA) graduate eager to kick-start my p
 
 ---
 
-## 🚀 Featured Engineering
+## Featured Engineering
 
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
