@@ -146,14 +146,13 @@ A high-performance developer portfolio featuring interactive animations, respons
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhinav-murugan1&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhinav-murugan1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-murugan1&layout=compact&theme=midnight-purple&hide_border=true&border_radius=12"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-murugan1&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" />
 
-<br/>
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Abhinav-murugan1&theme=midnight-purple&hide_border=true&border_radius=12"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhinav-murugan1&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
