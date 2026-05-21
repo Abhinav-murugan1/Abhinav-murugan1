@@ -16,8 +16,7 @@
 
 <br/><br/>
 
-<img src="https://hits.dwyl.com/abhinav-murugan1/abhinav-murugan1.svg?style=flat-square&color=A855F7" alt="Visitor Counter" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1000&pause=500&color=A855F7&center=true&vCenter=true&width=300&height=30&lines=Profile+Views:+${count}" alt="Visitor Counter" />
 </div>
 
 <br/>
