@@ -75,5 +75,12 @@ As an **MCA Postgraduate**, I engineer robust backends and clean, highly immersi
     <td width="50%" valign="top" align="left">
       <h3>Pet Adoption Application</h3>
       <p>A comprehensive cross-platform mobile ecosystem engineered using <strong>React Native (Expo)</strong>. Includes distinct role-based permissions systems, data-driven management dashboards, and unified <strong>Firebase/PostgreSQL</strong> configurations.</p>
+      <td width="50%" valign="top" align="left">
+      <h3>💇‍♂️ Online Salon Management</h3>
+      <p>A web framework built to streamline day-to-day salon operations[cite: 51]. Integrates automated appointment booking algorithms, structured customer profiling datasets, and dynamic promotional pipelines[cite: 51].</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript"/>
+    </td>
       <img src="https://img.shields.io/badge/React_Native-A855F7?style=flat-square&logo=react&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-7C3AED?style=
