@@ -3,13 +3,13 @@
 <!-- ANIMATED HEADER -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=700&height=90&lines=SHANTO+JOSEPH;FULL+STACK+DEVELOPER" alt="Shanto Joseph" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=C084FC&center=true&vCenter=true&width=600&height=40&lines=Django+Specialist+%E2%9A%A1;Crafting+Scalable+APIs+%26+Fluid+UIs;Turning+complex+logic+into+smooth+user+flows." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=C084FC&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer+%7C+Django+Specialist;Crafting+intuitive+UIs+%26+scalable+APIs;Turning+code+into+experiences+that+matter." alt="Typing SVG" />
 
 <br/>
 
 <!-- MINIMALIST GLOWING BUTTONS -->
 <a href="https://shantojoseph.com" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-shantojoseph.com-7C3AED?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90_shantojoseph.com-1F2937?style=for-the-badge&logoColor=A855F7&color=7C3AED" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="https://github.com/shanto-joseph" target="_blank">
@@ -26,25 +26,26 @@
 
 <blockquote>
   <p align="center">
-    <i>"Architecting seamless backends and minimalist interfaces with pixel-perfect intent."</i>
+    <i>"Turning ideas into interactive, dynamic, and scalable digital experiences."</i>
   </p>
 </blockquote>
 
-I specialize in building high-performance web ecosystems, merging **Django's** architectural security with modern, interactive front-end stacks. 
+I focus on delivering beautiful, responsive designs and robust backend systems that bring ideas to life. Whether it's crafting intuitive UIs or architecting complex APIs — I turn code into experiences that matter.
 
-* 🔭 **Active Ecosystems:** Refining **PC_Shop**, upgrading **EchoX**, and engineering **certificate-forge**.
-* 🧠 **Core Architecture:** Specialized in Django REST Framework, database optimization, and modular full-stack code.
-* ⚡ **Design Language:** Obsessed with deep dark modes, sharp layouts, and purposeful micro-interactions.
+* 🔭 **Currently Building:** `PC_Shop`, `EchoX` & `certificate-forge`
+* 🧠 **Specializing In:** Django + full-stack web development
+* 💡 **Philosophy:** Love turning complex problems into clean, scalable solutions
+* 🌐 **Ecosystem:** [shantojoseph.com](https://shantojoseph.com)
 
 <br/>
 
 ---
 
-## 🛠️ Syntactic Core (Tech Stack)
+## 🛠️ Tech Stack
 
-### 💻 Front-End & Design
+### 🎨 Front-End & Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&theme=dark" alt="Front-End Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,wordpress&theme=dark" alt="Front-End Stack" />
 </p>
 
 ### ⚙️ Back-End & Databases
@@ -52,7 +53,7 @@ I specialize in building high-performance web ecosystems, merging **Django's** a
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,postgres,mysql,firebase&theme=dark" alt="Back-End Stack" />
 </p>
 
-### 🧰 DevOps & Tooling
+### 🧰 DevOps, Automation & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,lua&theme=dark" alt="Tooling Stack" />
 </p>
@@ -61,35 +62,49 @@ I specialize in building high-performance web ecosystems, merging **Django's** a
 
 ---
 
-## 🚀 Featured Engineering
+## 🚀 Featured Projects
 
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🔮 <a href="https://github.com/shanto-joseph/EchoX">EchoX</a></h3>
-      <p>Modern Windows audio controller featuring dynamic device toggles, saved volume states, and subtle desktop tray integrations.</p>
+      <h3>🎧 <a href="https://github.com/shanto-joseph/EchoX">EchoX</a></h3>
+      <p>A modern Windows audio manager for quick device switching, volume control, saved profiles, and tray-first microphone tools.</p>
       <img src="https://img.shields.io/badge/C%23-7C3AED?style=flat-square&logo=c-sharp&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
       <h3>🖥️ <a href="https://github.com/shanto-joseph/PC_Customization">PC_Customization</a></h3>
-      <p>Django-powered hardware configurator incorporating automated compatibility checks, Razorpay rails, and custom AI chat assistance.</p>
+      <p>Django e-commerce for PC hardware with custom PC builder, compatibility checks, Razorpay payments & <strong>Vex AI</strong> chatbot.</p>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gemini_AI-A855F7?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Razorpay-111827?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🌿 <a href="https://github.com/shanto-joseph/PlantNest">PlantNest</a></h3>
-      <p>Curated plant e-commerce application powered by Django, structured with dedicated administrative metrics dashboards and community modules.</p>
+      <p>Django e-commerce platform for plants with <strong>AI plant chat</strong>, community blog & custom admin dashboard.</p>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI_Core-A855F7?style=flat-square" />
+      <img src="https://img.shields.io/badge/AI_Chat-A855F7?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h3>🛒 <a href="https://github.com/shanto-joseph/pc-store">pc-store</a></h3>
-      <p>Multi-vendor commerce architecture using strict relational design, containing separate vendor panels and unified gateways.</p>
+      <p>Multi-vendor e-commerce for PC hardware built with <strong>PHP & MySQL</strong>. Customer shopping, vendor dashboards, admin panel & Razorpay payments.</p>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/shanto-joseph/Home-Easeit">Home-Easeit</a></h3>
+      <p>Full-stack rental management system - property listings, visit scheduling, bookings, refunds & notifications.</p>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📜 <a href="https://github.com/shanto-joseph/certificate-forge">certificate-forge</a></h3>
+      <p>Certificate generation & management tool.</p>
+      <img src="https://img.shields.io/badge/Python-A855F7?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -99,7 +114,7 @@ I specialize in building high-performance web ecosystems, merging **Django's** a
 
 ---
 
-## 📊 Analytics Framework
+## 📊 Performance & Analytics
 
 <div align="center">
 
@@ -108,22 +123,20 @@ I specialize in building high-performance web ecosystems, merging **Django's** a
 
 <br/><br/>
 
-<!-- SYMMETRICAL METRIC ARRAYS -->
+<!-- SYMMETRICAL PROFILE SUMMARY CARDS -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanto-joseph&theme=dracula&title_color=A855F7" width="100%"/>
+
+<br/>
+
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shanto-joseph&show_icons=true&theme=dracula&title_color=A855F7&icon_color=C084FC&text_color=E5E7EB&bg_color=0D1117&hide_border=true" height="165" alt="Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanto-joseph&theme=dracula&title_color=A855F7" height="200"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanto-joseph&layout=compact&theme=dracula&title_color=A855F7&text_color=E5E7EB&bg_color=0D1117&hide_border=true" height="165" alt="Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanto-joseph&theme=dracula&title_color=A855F7" height="200"/>
     </td>
   </tr>
 </table>
-
-<br/><br/>
-
-<!-- ANIMATED CONTRIBUTION SNAKE -->
-<h3>👾 Grid Matrix Sync</h3>
-<img src="https://github.com/Aletheia-Data/Aletheia-Data/blob/main/github-contribution-grid-snake.svg" width="100%" alt="Contribution Matrix Animation" />
 
 </div>
