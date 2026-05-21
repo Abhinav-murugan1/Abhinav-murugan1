@@ -7,7 +7,7 @@
 <br/>
 
 <a href="[https://abhinavmurugan.netlify.app]" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-shantojoseph.com-7C3AED?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-abhinavmurugan.com-7C3AED?style=for-the-badge&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="mailto:abhinavmurugan848@gmail.com">
