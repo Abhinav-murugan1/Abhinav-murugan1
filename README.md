@@ -100,7 +100,7 @@ As an **MCA Postgraduate**, I engineer robust backends and clean, highly immersi
 
 <div align="center">
 
-<p><i>Note: Swap out 'YOUR_GITHUB_USERNAME' below with your actual GitHub username to link your live metrics engine.</i></p>
+<p><i>Note: Swap out 'Abhinav-murugan1' below with your actual GitHub username to link your live metrics engine.</i></p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true&area=true&color=A855F7&line=A855F7&point=C084FC" width="100%" alt="Activity Graph" />
 
