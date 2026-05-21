@@ -156,22 +156,24 @@ A high-performance developer portfolio featuring interactive animations, respons
 </div>
 
 
-### Connect With Me
+## Connect With Me
 
-<a href="https://www.linkedin.com">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abhinav-murugan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A855F7" />
 </a>
 
 &nbsp;
 
-<a href="https://github.com/Abhinav-murugan1">
-  <img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/Abhinav-murugan1" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A855F7" />
 </a>
 
 &nbsp;
 
-<a href="mailto:abhinavmurugan848@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:abhinavmurugan848@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=A855F7" />
 </a>
 
 </div>
