@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=700&height=90&lines=ABHINAV+MURUGAN" alt="Abhinav Murugan" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=1800&pause=400&color=A855F7&center=true&vCenter=true&width=700&height=90&lines=ABHINAV+MURUGAN" alt="Abhinav Murugan" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=C084FC&center=true&vCenter=true&width=600&height=40&lines=BCA+Graduate+%7C+Full+Stack+Developer;Crafting+Fluid+UIs+%26+Scalable+Logic;Turning+code+into+experiences+that+matter." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=800&color=C084FC&center=true&vCenter=true&width=600&height=40&lines=MCA+Postgraduate+%F0%9F%8E%93+%7C+Full+Stack+Engineer;Architecting+Fluid+UIs+%26+Interactive+Web+Systems;Turning+complex+logic+into+seamless+digital+products." alt="Typing SVG" />
 
 <br/>
 
@@ -20,37 +20,37 @@
 
 ---
 
-## About Me
+## 🔮 About Me
 
 <blockquote>
   <p align="center">
-    <i>"Turning complex algorithmic problems into interactive, dynamic, and scalable digital experiences."</i>
+    <i>"Bridging advanced computational architecture with pixel-perfect, interactive visual engineering."</i>
   </p>
 </blockquote>
 
-I am a Bachelor of Computer Applications (BCA) graduate eager to kick-start my professional IT journey. I blend analytical problem-solving with a dedication to clean architecture, interactive web/mobile frameworks, and collaborative team synergy.
+As an **MCA Postgraduate**, I engineer robust backends and clean, highly immersive user interfaces. I love turning complex data workflows into smooth, accessible, and fast software applications.
 
-* 🔭 **Academic Core:** Graduated from SCMS School of Technology & Management.
-* 🧠 **Specializing In:** Multi-platform application ecosystems (React Native, TypeScript, Firebase) and structural web systems.
-* ⚡ **Beyond the Code:** Experienced hackathon volunteer, gamer, and digital asset editor with a strong appreciation for fluid micro-interactions and minimal aesthetics.
+* 🎓 **Academic Core:** Master of Computer Applications (MCA) graduate.
+* 🧠 **Specializing In:** Multi-platform design systems, automated event structures, and high-performance relational database mapping.
+* ⚡ **Design Language:** Strongly focused on minimal aesthetics, deep dark interfaces, micro-interactions, and fluid movement.
 
 <br/>
 
 ---
 
-## Syntactic Core (Tech Stack)
+## 🛠️ Syntactic Core (Tech Stack)
 
-### 🎨 Front-End & Cross-Platform UI
+### 🎨 Front-End & Motion UI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="Front-End Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" alt="Front-End Stack" />
 </p>
 
 ### ⚙️ Back-End & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,postgres,mysql,firebase&theme=dark" alt="Back-End Stack" />
+  <img src="https://skillicons.dev/icons?i=php,postgres,mysql,firebase,prisma&theme=dark" alt="Back-End Stack" />
 </p>
 
-### 🧰 DevOps & Productivity Core
+### 🧰 DevOps & Cross-Platform Engine
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,svg,md&theme=dark" alt="Tooling Stack" />
 </p>
@@ -59,24 +59,39 @@ I am a Bachelor of Computer Applications (BCA) graduate eager to kick-start my p
 
 ---
 
-## Featured Engineering
+## 🚀 Featured Engineering
 
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🐾 Pet Adoption Application</h3>
-      <p>A comprehensive web and mobile ecosystem built via <strong>React Native (Expo)</strong> and <strong>TypeScript</strong>. Includes role-based dashboards, secure communication pathways, and unified <strong>Firebase/PostgreSQL</strong> storage structures.</p>
+      <h3>✨ Sankalpa Events</h3>
+      <p><strong>Crafting Memorable Experiences</strong> — A beautifully designed event management website optimized for flawless responsiveness. Implements highly interactive layout blocks, fluid user animations, dynamic media galleries, testimonials, and high-conversion client communication channels.</p>
+      <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react"/>
       <img src="https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React_Native-A855F7?style=flat-square&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase"/>
+      <img src="https://img.shields.io/badge/Prisma-A855F7?style=flat-square&logo=prisma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwind-css"/>
     </td>
     <td width="50%" valign="top">
-      <h3>💇‍♂️ Online Salon Management Platform</h3>
-      <p>A web application engineered to scale salon operations. Dynamically orchestrates real-time appointment schedulers, structured customer tracking portfolios, and custom promotional pipelines.</p>
+      <h3>🐾 Pet Adoption Application</h3>
+      <p>A comprehensive cross-platform mobile ecosystem engineered using <strong>React Native (Expo)</strong>. Includes distinct role-based permissions systems, data-driven management dashboards, and unified <strong>Firebase/PostgreSQL</strong> configurations.</p>
+      <img src="https://img.shields.io/badge/React_Native-A855F7?style=flat-square&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💇‍♂️ Online Salon Management</h3>
+      <p>A web framework built to streamline day-to-day salon operations. Integrates automated appointment booking algorithms, structured customer profiling datasets, and dynamic promotional pipelines.</p>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📜 certificate-forge</h3>
+      <p>A high-speed automated certificate generation system built to dynamically handle templates and instantly map structured identity fields into custom downloadable assets.</p>
+      <img src="https://img.shields.io/badge/Python-A855F7?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -90,7 +105,7 @@ I am a Bachelor of Computer Applications (BCA) graduate eager to kick-start my p
 
 <div align="center">
 
-<p><i>Note: Swap out 'YOUR_GITHUB_USERNAME' below with your actual GitHub handle to launch live telemetry metrics tracking.</i></p>
+<p><i>Note: Swap out 'YOUR_GITHUB_USERNAME' below with your actual GitHub username to link your live metrics engine.</i></p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true&area=true&color=A855F7&line=A855F7&point=C084FC" width="100%" alt="Activity Graph" />
 
@@ -99,4 +114,12 @@ I am a Bachelor of Computer Applications (BCA) graduate eager to kick-start my p
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&title_color=A855F7
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&title_color=A855F7&icon_color=C084FC&text_color=E5E7EB&bg_color=0D1117&hide_border=true" height="165" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&title_color=A855F7&text_color=E5E7EB&bg_color=0D1117&hide_border=true" height="165" alt="Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
