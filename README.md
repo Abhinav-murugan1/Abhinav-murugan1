@@ -6,13 +6,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/abhinav-murugan/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_LinkedIn-abhinav--murugan-1F2937?style=for-the-badge&logo=linkedin&logoColor=A855F7&color=7C3AED" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:abhinavmurugan848@gmail.com">
-  <img src="https://img.shields.io/badge/✉️_Email-abhinavmurugan848-111827?style=for-the-badge&logo=gmail&logoColor=A855F7&labelColor=1F2937&color=7C3AED" alt="Email"/>
-</a>
+[🌐 Portfolio](https://www.linkedin.com/in/abhinav-murugan/)  •  [🔮 GitHub](https://github.com/Abhinav-murugan1)  •  [✉️ Email](mailto:abhinavmurugan848@gmail.com)
 
 </div>
 
@@ -28,65 +22,63 @@
   </p>
 </blockquote>
 
-As an **MCA Postgraduate**, I engineer robust backends and clean, highly immersive user interfaces. I love turning complex data workflows into smooth, accessible, and fast software applications.
+As an **MCA Postgraduate**, I engineer robust backends and clean, highly immersive user interfaces. [cite_start]I love turning complex data workflows into smooth, accessible, and fast software applications. [cite: 7, 9, 10]
 
-* **Academic Core:** Master of Computer Applications (MCA) graduate.
-* **Specializing In:** Multi-platform design systems, automated event structures, and high-performance relational database mapping.
-*  **Design Language:** Strongly focused on minimal aesthetics, deep dark interfaces, micro-interactions, and fluid movement.
-
-<br/>
-
----
-
-## 🛠️ Syntactic Core (Tech Stack)
-
-### Front-End & Motion UI
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" alt="Front-End Stack" />
-</p>
-
-### Back-End & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,postgres,mysql,firebase,prisma&theme=dark" alt="Back-End Stack" />
-</p>
-
-### DevOps & Cross-Platform Engine
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,svg,md&theme=dark" alt="Tooling Stack" />
-</p>
+* [cite_start]🎓 **Academic Core:** Master of Computer Applications (MCA) graduate from SCMS School of Technology & Management. [cite: 40, 42, 43]
+* [cite_start]🧠 **Specializing In:** Multi-platform design systems, automated event structures, and high-performance relational database mapping. [cite: 16, 18, 51, 53]
+* ⚡ **Design Language:** Strongly focused on minimal aesthetics, deep dark interfaces, micro-interactions, and fluid movement.
 
 <br/>
 
 ---
 
-## Featured Engineering
+## 🛠️ Tech Stack
+
+### 🎨 Front-End & Motion UI
+* [cite_start]HTML5 / CSS3 / JavaScript / TypeScript [cite: 38, 52, 54]
+* [cite_start]React / React Native (Expo) [cite: 53, 54]
+* Tailwind CSS 
+
+### ⚙️ Back-End & Databases
+* [cite_start]PHP / Node.js [cite: 52]
+* Prisma ORM
+* [cite_start]PostgreSQL / MySQL / Firebase [cite: 52, 53, 54]
+
+### 🧰 DevOps & Productivity Core
+* [cite_start]Git / GitHub [cite: 5]
+* VS Code
+* [cite_start]Figma [cite: 49]
+
+<br/>
+
+---
+
+## 🚀 Featured Engineering
 
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3> Sankalpa Events</h3>
+      <h3>✨ Sankalpa Events</h3>
       <p><strong>Crafting Memorable Experiences</strong> — A beautifully designed event management website optimized for flawless responsiveness. Implements highly interactive layout blocks, fluid user animations, dynamic media galleries, testimonials, and high-conversion client communication channels.</p>
-      <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react"/>
-      <img src="https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Prisma-A855F7?style=flat-square&logo=prisma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwind-css"/>
+      <p><i>React • TypeScript • Prisma • Tailwind CSS</i></p>
     </td>
     <td width="50%" valign="top">
       <h3>🐾 Pet Adoption Application</h3>
-      <p>A comprehensive cross-platform mobile ecosystem engineered using <strong>React Native (Expo)</strong>. Includes distinct role-based permissions systems, data-driven management dashboards, and unified <strong>Firebase/PostgreSQL</strong> configurations.</p>
-      <img src="https://img.shields.io/badge/React_Native-A855F7?style=flat-square&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase"/>
+      <p>A comprehensive cross-platform mobile ecosystem engineered using <strong>React Native (Expo)</strong>. [cite_start]Includes distinct role-based permissions systems, data-driven management dashboards, and unified <strong>Firebase/PostgreSQL</strong> configurations. [cite: 53, 54]</p>
+      <p><i>React Native • TypeScript • Firebase • PostgreSQL</i> [cite: 54]</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3> Online Salon Management</h3>
-      <p>A web framework built to streamline day-to-day salon operations. Integrates automated appointment booking algorithms, structured customer profiling datasets, and dynamic promotional pipelines.</p>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript"/>
+      <h3>💇‍♂️ Online Salon Management</h3>
+      <p>A web framework built to streamline day-to-day salon operations. Integrates automated appointment booking algorithms, structured customer profiling datasets, and dynamic promotional pipelines. [cite: 51]</p>
+      <p><i>PHP • MySQL • HTML • CSS • JavaScript</i> [cite: 52]</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📜 Hackathon Core Operations</h3>
+      <p>Operational background managing high-stress developer environments, event coordinating frameworks, asset sorting pipelines, and infrastructure management metrics. [cite: 30, 32, 34]</p>
+      <p><i>Agile Frameworks • Infrastructure Coordination • Event Operations</i> [cite: 11, 34]</p>
     </td>
   </tr>
 </table>
@@ -96,23 +88,21 @@ As an **MCA Postgraduate**, I engineer robust backends and clean, highly immersi
 
 ---
 
-## Analytics Framework
+## 📊 Analytics Framework
 
 <div align="center">
 
-<p><i>Note: Swap out 'Abhinav-murugan1' below with your actual GitHub username to link your live metrics engine.</i></p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true&area=true&color=A855F7&line=A855F7&point=C084FC" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-murugan1&theme=dracula&hide_border=true&area=true&color=A855F7&line=A855F7&point=C084FC" width="100%" alt="Activity Graph" />
 
 <br/><br/>
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&title_color=A855F7&icon_color=C084FC&text_color=E5E7EB&bg_color=0D1117&hide_border=true" height="165" alt="Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-murugan1&show_icons=true&theme=dracula&title_color=A855F7&icon_color=C084FC&text_color=E5E7EB&bg_color=0D1117&hide_border=true" height="165" alt="Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&title_color=A855F7&text_color=E5E7EB&bg_color=0D1117&hide_border=true" height="165" alt="Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-murugan1&layout=compact&theme=dracula&title_color=A855F7&text_color=E5E7EB&bg_color=0D1117&hide_border=true" height="165" alt="Languages" />
     </td>
   </tr>
 </table>
