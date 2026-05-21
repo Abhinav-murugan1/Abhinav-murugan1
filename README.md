@@ -19,9 +19,6 @@
 
 <br/>
 <br/>
-
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbhinav-murugan1%2FAbhinav-murugan1&count_bg=%2300000000&title_bg=%2300000000&icon=&icon_color=%23A855F7&title=views&edge_flat=true"/>
-
 </div>
 
 ---
@@ -38,9 +35,9 @@ I’m currently pursuing a Master of Computer Applications (MCA), with a strong 
 
 I specialize in building scalable web applications with a strong focus on performance, clean architecture, and pixel-perfect frontend experiences. I enjoy bridging modern UI/UX design with structured software engineering principles.
 
-- 🎓 **Academic Background:** BCA graduate currently pursuing MCA at SCMS School of Technology & Management.
-- 💻 **Specializing In:** Full-stack web development, responsive UI systems, and database-driven applications.
-- 🎨 **Design Philosophy:** Minimal interfaces, fluid interactions, accessibility, and performance-first engineering.
+- **Academic Background:** BCA graduate currently pursuing MCA at SCMS School of Technology & Management.
+- **Specializing In:** Full-stack web development, responsive UI systems, and database-driven applications.
+- **Design Philosophy:** Minimal interfaces, fluid interactions, accessibility, and performance-first engineering.
 
 <br/>
 
